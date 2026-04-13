@@ -21,6 +21,6 @@ Water risk: High within 3–5 days if no movement
 
 # -Technologies-used
 
-*Tailwind CSS
-*React
+
+*Typescript
 *Javascript
